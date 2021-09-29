@@ -54,9 +54,7 @@ Then run the script to generate the `blog_db` database using the `./db/schema.sq
 
 The application will be available by default at http://localhost:3001/. The RESTful API will also be available to be called independently at http://localhost:3001/api/user/, http://localhost:3001/api/post/, http://localhost:3001/api/comment/.
 
-## Example API Call
 
-POST - http://localhost:3001/api/post/ - `{ "title": "Title of a Blog Post", "content": "Content of a blog post three times. Content of a blog post three times. Content of a blog post three times. ", "author_id": "1" }`
 
 ## Schema Diagram
 
