@@ -52,10 +52,6 @@ First run `npm i` at the project root to get the node project dependencies and t
 
 Then run the script to generate the `blog_db` database using the `./db/schema.sql`. Then use command `npm run seed` (notice the various commands available in `package.json`) to generate the tables and example user, post and comment data. Once this is complete use command `npm run dev` if you would like the server to use Nodemon and auto-restart when there are updates to code or `npm run start` for a normal server start.
 
-The application will be available by default at http://localhost:3001/. The RESTful API will also be available to be called independently at http://localhost:3001/api/user/, http://localhost:3001/api/post/, http://localhost:3001/api/comment/.
-
-
-
 ## Schema Diagram
 
 ![database schema](./assets/database-schema.png)
