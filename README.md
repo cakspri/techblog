@@ -2,11 +2,6 @@
 
 An MVC full stack blog project. [Live Demo Here](https://mighty-earth-36141.herokuapp.com/).
 
-Seeded Admin account credentials are:
-
--   username: david_test@gmail.com
--   password: 12345
-
 Example Seeded User Credentials (or create your own account):
 
 -   username: test_test@gmail.com
